@@ -1,6 +1,8 @@
 # MRM-Hybrid
 Precisely crafted, All new Semi Geographic Mumbai Suburban Rail Map with complete alphanumeric stations index.
 
+![mrm_featured_image_wide_hybrid_960](https://user-images.githubusercontent.com/9861917/63509522-fe11f000-c4f9-11e9-9763-10443dd03252.jpg)
+
 ## Contribute to the Map
 ```
 
@@ -11,6 +13,7 @@ Or write to us @
 contact@localsofmumbai.com
 
 ```
+
 ## Project Links
 
 Official Website for latest products:
