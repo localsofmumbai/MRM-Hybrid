@@ -6,7 +6,7 @@ Precisely crafted, All new Semi Geographic Mumbai Suburban Rail Map with complet
 ## Use the Map
 copy and paste the code below and paste in your website or blog to display the latest version of the map:
 
-#### Mumbai Rail Mai in English:
+#### Mumbai Rail Map - Hybrid - in English:
 ```
 <a href="https://localsofmumbai.com/"><img border="0" src="https://maps.localsofmumbai.com/en/hybrid.jpg" alt="Mumbai Rail Map" width="100% auto"></a>
 ```
