@@ -2,7 +2,9 @@
 ## Mumbai Suburban Transit Rail Network
 Precisely crafted, all-new hybrid semi-geographic Mumbai suburban rail Map.
 Includes Mumbai Local, Metro, Monorail
+
 <img src='https://maps.localsofmumbai.com/en/hybrid.jpg' alt='Mumbai Rail Map Hybrid English'>
+
 
 ## Use the Map
 copy the code below and paste to your website or blog to display the latest version of the map:
