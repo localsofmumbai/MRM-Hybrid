@@ -1,10 +1,11 @@
 # MRM-Hybrid
-Precisely crafted, All new Semi Geographic Mumbai Suburban Rail Map with complete alphanumeric stations index.
-
-![mrm_featured_image_wide_hybrid_960](https://user-images.githubusercontent.com/9861917/63509522-fe11f000-c4f9-11e9-9763-10443dd03252.jpg)
+## Mumbai Suburban Transit Rail Network
+Precisely crafted, all-new hybrid semi-geographic Mumbai suburban rail Map.
+Includes Mumbai Local, Metro, Monorail
+<img src='https://maps.localsofmumbai.com/en/hybrid.jpg' alt='Mumbai Rail Map Hybrid English'>
 
 ## Use the Map
-copy the code below and paste in your website or blog to display the latest version of the map:
+copy the code below and paste to your website or blog to display the latest version of the map:
 
 #### Mumbai Rail Map - Hybrid - English:
 ```
