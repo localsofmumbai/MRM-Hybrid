@@ -7,7 +7,7 @@ Includes Mumbai Local, Metro, Monorail
 
 
 ## Use the Map
-copy the code below and paste to your website or blog to display the latest version of the map:
+copy the code below and paste it to your website or blog to display the latest version of the map:
 
 #### Mumbai Rail Map - Hybrid - English:
 ```
